@@ -1,13 +1,10 @@
-import './App.css';
-import Header from "./Components/Header";
-import PortfolioPage from "./pages/PortfolioContainer";
+import PortfolioContainer from './PortfolioContainer';
 
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <PortfolioPage />
+    <div className="PortfolioContainer">
+      <PortfolioContainer />
     </div>
   );
 }

@@ -1,33 +1,37 @@
-import './App.css';
+import React from "react";
 
-function Header() {
+function NavTabs(props) {
   return (
-            <nav className="navbar navbar-expand-lg navbar-light">
-                <div className="navbar-header">
-
-                    <p className='navbar-brand text-white'>Caleb Deal</p>
-
-                </div>
-
-                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-                    <span className="navbar-toggler-icon"></span>
-                </button>
-
-                <div className="collapse navbar-collapse" id="main-navbar">
-                    <ul className="nav navbar-nav ml-auto">
-                        <li className="nav-item">
-                            <a className="nav-link" href="">Contact</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="/portfolio">Portfolio</a>
-                        </li>
-                        <li className="nav-item active">
-                            <a className="nav-link" href="/home">About</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+    <ul className="nav nav-tabs">
+      <li className="nav-item">
+        <a
+          href="#home"
+          onClick={() => props.handlePageChange("Home")}
+          className={props.currentPage === "Home" ? "nav-link active" : "nav-link"}
+        >
+          Home
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#portfolio"
+          onClick={() => props.handlePageChange("Portfolio")}
+          className={props.currentPage === "Portfolio" ? "nav-link active" : "nav-link"}
+        >
+          Portfolio
+        </a>
+      </li>
+      <li className="nav-item">
+        <a
+          href="#contact"
+          onClick={() => props.handlePageChange("Contact")}
+          className={props.currentPage === "Contact" ? "nav-link active" : "nav-link"}
+        >
+          Contact
+        </a>
+      </li>
+    </ul>
   );
 }
 
-export default Header;
+export default NavTabs;
