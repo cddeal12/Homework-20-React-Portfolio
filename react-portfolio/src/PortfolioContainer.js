@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import Header from "./Components/Header";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
+import Footer from "./Components/Footer";
 
 class PortfolioContainer extends Component {
   state = {
@@ -16,9 +17,9 @@ class PortfolioContainer extends Component {
   renderPage = () => {
     if (this.state.currentPage === "Home") {
       return <Home />;
-    } else if (this.state.currentPage === "About") {
+    } else if (this.state.currentPage === "Portfolio") {
       return <Portfolio />;
-    } else {
+    } else if (this.state.currentPage === "Contact") {
       return <Contact />;
     }
   };
@@ -31,6 +32,7 @@ class PortfolioContainer extends Component {
           handlePageChange={this.handlePageChange}
         />
         {this.renderPage()}
+        <Footer />
       </div>
     );
   }
