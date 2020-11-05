@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Homework-20-React-Portfolio/static/css/main.db46dca5.chunk.css",
+    "main.js": "/Homework-20-React-Portfolio/static/js/main.a80d7053.chunk.js",
+    "main.js.map": "/Homework-20-React-Portfolio/static/js/main.a80d7053.chunk.js.map",
+    "runtime-main.js": "/Homework-20-React-Portfolio/static/js/runtime-main.e70ff3e9.js",
+    "runtime-main.js.map": "/Homework-20-React-Portfolio/static/js/runtime-main.e70ff3e9.js.map",
+    "static/css/2.267ffeee.chunk.css": "/Homework-20-React-Portfolio/static/css/2.267ffeee.chunk.css",
+    "static/js/2.e3b2c6d1.chunk.js": "/Homework-20-React-Portfolio/static/js/2.e3b2c6d1.chunk.js",
+    "static/js/2.e3b2c6d1.chunk.js.map": "/Homework-20-React-Portfolio/static/js/2.e3b2c6d1.chunk.js.map",
+    "index.html": "/Homework-20-React-Portfolio/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/Homework-20-React-Portfolio/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.db46dca5.chunk.css.map": "/Homework-20-React-Portfolio/static/css/main.db46dca5.chunk.css.map",
+    "static/js/2.e3b2c6d1.chunk.js.LICENSE.txt": "/Homework-20-React-Portfolio/static/js/2.e3b2c6d1.chunk.js.LICENSE.txt",
+    "static/media/AndNowTheWeatherThumb.798c135d.PNG": "/Homework-20-React-Portfolio/static/media/AndNowTheWeatherThumb.798c135d.PNG",
+    "static/media/DateMateThumb.bde6e553.PNG": "/Homework-20-React-Portfolio/static/media/DateMateThumb.bde6e553.PNG",
+    "static/media/DayPlannerThumb.f6d7d1c1.PNG": "/Homework-20-React-Portfolio/static/media/DayPlannerThumb.f6d7d1c1.PNG",
+    "static/media/Eat-a-Burger.50622277.PNG": "/Homework-20-React-Portfolio/static/media/Eat-a-Burger.50622277.PNG",
+    "static/media/RubbishWrld.2170fd33.png": "/Homework-20-React-Portfolio/static/media/RubbishWrld.2170fd33.png",
+    "static/media/itme.c011499b.jpg": "/Homework-20-React-Portfolio/static/media/itme.c011499b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70ff3e9.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.e3b2c6d1.chunk.js",
+    "static/css/main.db46dca5.chunk.css",
+    "static/js/main.a80d7053.chunk.js"
+  ]
+}
