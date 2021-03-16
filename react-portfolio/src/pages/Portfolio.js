@@ -11,7 +11,7 @@ const Portfolio = () => (
         
             <div className="row no-gutters">
 
-                <main className="col-sm-8 my-5 mr-5 ml-5" id="mainbox">
+                <main className="col-sm-12 my-5 mr-5 ml-5" id="mainbox">
 
                     <h1 className="header ml-3 my-3">Portfolio</h1>
 
@@ -31,7 +31,7 @@ const Portfolio = () => (
                                 <p className="mx-3 my-3">
                                 DateMate is a web app for users planning a dinner-date. It allows users to search and filter recipes by food allergies or
                                 intolerances, and then get a movie reccomendation based on genre. In the end it will display the recipe, along with the cooking
-                                instructions and a wine pairing, followed by the movie reccomenation and the platforms to stream it on. This app is deployed 
+                                instructions and a wine pairing, followed by the movie reccomendation and the platforms to stream it on. This app is deployed 
                                 <a href="https://cddeal12.github.io/Project-1/">Here</a>.
                                 </p>
                             </section>
@@ -47,8 +47,8 @@ const Portfolio = () => (
                                 <img src={dayplanner} alt="Day Planner page" className="m-4 p-2 portfolio-img" />
                                 <p>
                                 Day Planner is a web app that tracks the time of day and displays an hour by hour day planner for the current date. 
-                                It uses the current time to display various blocks of time as diffeent colors based on whther thay are in the past, present, 
-                                or future. It support adding, editing, and removing tasks to be done throughout the workday, and it will always save changes 
+                                It uses the current time to display various blocks of time as different colors based on whether they are in the past, present, 
+                                or future. It supports adding, editing, and removing tasks to be done throughout the workday, and it will always save changes 
                                 made to the hour blocks. It is deployed <a href="https://cddeal12.github.io/Homework-05-Day-Planner/">Here</a>.
                                 </p>
                             </section>

@@ -4,30 +4,22 @@ const Contact = () => (
   <div>
     <div className="container">
         <div className="row no-gutters">
-            <main className="col-sm-8 my-5 mr-5 ml-5 bg-light" id="mainbox">
+            <main className="col-sm-12 my-5 mr-5 ml-5 bg-light" id="mainbox">
 
-                <h1 className="header ml-3 my-3">Contact</h1>
+                <h1 className="header ml-3 my-3">Contact Me</h1>
 
                 <hr />
 
-                <form className="m-4">
-                    <div className="form-group">
-                        <label htmlFor="name-input">Name</label>
-                        <input type="name" className="form-control" id="name-input" aria-describedby="emailHelp" placeholder="Enter Name" />
-                    </div>
-
-                    <div className="form-group">
-                        <label htmlFor="email-input">Email Address</label>
-                        <input type="email" className="form-control" id="email-input" aria-describedby="emailHelp" placeholder="Enter email" />
-                    </div>
-
-                    <div className="form-group" >
-                        <label htmlFor="message-input">Message</label>
-                        <textarea className="form-control" id="message-input" rows="4"></textarea>
-                    </div>
-
-                    <button type="submit" className="btn submitbtn">Submit</button>
-                </form>
+                <article className="mx-3 my-3">
+                    <h4>Links</h4>
+                    <h5><a target="_blank" href="https://www.linkedin.com/in/caleb-deal-624862174/">Linkedin</a></h5>
+                    <h5><a target="_blank" href="https://github.com/cddeal12">Github</a></h5>
+                    <h5><a target="_blank" href="https://docs.google.com/document/d/1cc1eJVaZW7QNr08OYRF7ZMASsdJKdyFYJY2jHxBoN14/edit?usp=sharing">Resume</a></h5>
+                    <br></br>
+                    <h4>Contact Info</h4>
+                    <h5>Email: cddeal12@mgial.com</h5>
+                    <h5>Phone: 912 690 3447</h5>
+                </article>
             </main>
         </div>
 

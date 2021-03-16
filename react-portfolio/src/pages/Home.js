@@ -6,7 +6,7 @@ const Home = () => (
     
     <div className="container">
         <div className="row no-gutters">
-            <main className="col-sm-8 my-5 mr-5 ml-5 bg-light main-box" id="mainbox">
+            <main className="col-sm-12 my-5 mr-5 ml-5 bg-light main-box" id="mainbox">
                 <div className="header">
                     <h1 className="ml-3 my-3">About Me</h1>
                 </div>
@@ -20,23 +20,16 @@ const Home = () => (
                         </div>
                         
                         <article className="maintext px-2">
-                            My name is Caleb Deal. I am currently a student in the Georgia Tech Full-Time Coding Bootcamp.
-                            I was born in Statesboro Georgia where I lived and attended high-school. I became very interested 
-                            in medical biology and attended Georgia Tech for two years working towards the degree, however I am 
-                            currently taking time away to develop new skills and seek employment. Today I live with my partner in 
-                            Tacoma, Washington, where I attend my bootcamp classes remotely.
+                            My name is Caleb Deal. I am a full-stack web developer currently living in Tacoma, Washington. I was born in Statesboro Georgia where I grew up and attended high school.
+                            There I became very interested in medical biology and and attended Georgia Tech for two years while working towards a biomedical engineering degree. Now, however, I am 
+                            developing new skills as a web developer and working towards a new career in this field. I attended Georgia Tech once again as a bootcamp student and am now cerified as a 
+                            full-stack developer.
                         </article>
                         <br />
                         <article className="maintext px-2">
-                            I am hard at work learning more about web development and improving my skills. You can follow my progress and see my latest projects at my 
-                            <a href="https://github.com/cddeal12" target="_blank" rel="noreferrer"> Github profile</a>.
+                            I am hard at work learning new technologies and sharpening my skills. You can follow my progress here on my portfolio or at any of the links in my contact page.
                         </article>
                         <br />
-                        <article className="maintext px-2">
-                            I am also available on <a href="https://www.linkedin.com/in/caleb-deal-624862174/">Linkedin</a>.
-                            <br />
-                            My resume is available <a href="https://drive.google.com/file/d/11IGt4YPwGTszwzHxWqfiy-nq_dNaHecJ/view?usp=sharing">Here</a>.
-                        </article>
                     </content>
                 </div>
             </main>
