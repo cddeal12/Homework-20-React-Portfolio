@@ -2,7 +2,7 @@ import React from "react";
 
 function NavTabs(props) {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tabs fixed-top">
       <li className="nav-item">
         <a
           href="#home"

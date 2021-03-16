@@ -25,7 +25,9 @@ const Portfolio = () => (
                                 Rubbish rumble is a simple character creation and battle app with a unique theme. I was responsible for coding the battle engine 
                                 and logic for the app, and did extensive work on its api routes. This app is deployed <a href="http://rubbishrumble.herokuapp.com/">Here</a>.
                                 <br />
-                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Rubbish-Rumble">Here</a>.
+                                <br />
+                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Rubbish-Rumble">Here</a>
+                                <br />
                                 </p>
                             </section>
                             <section className="my-3 border-dark bg-light">
@@ -36,7 +38,9 @@ const Portfolio = () => (
                                 instructions and a wine pairing, followed by the movie reccomendation and the platforms to stream it on. This app is deployed 
                                 <a href="https://cddeal12.github.io/Project-1/">Here</a>.
                                 <br />
-                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Project-1">Here</a>.
+                                <br />
+                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Project-1">Here</a>
+                                <br />
                                 </p>
                             </section>
                             <section className="my-3 border-dark bg-light">
@@ -46,7 +50,9 @@ const Portfolio = () => (
                                     The app saves cities the user searches for and keeps them in a sidebar for ease of use, and it saves the user's last checked 
                                     city for easy checking on each re-visit. This app is deployed <a href="https://cddeal12.github.io/Homework-06-Weather-App/">Here</a>.
                                     <br />
-                                    You can find the Github repository for this project <a href="https://github.com/cddeal12/Homework-06-Weather-App">Here</a>.
+                                    <br />
+                                    You can find the Github repository for this project <a href="https://github.com/cddeal12/Homework-06-Weather-App">Here</a>
+                                    <br />
                                 </p>
                             </section>
                             <section className="my-3 border-dark bg-light">
@@ -57,7 +63,9 @@ const Portfolio = () => (
                                 or future. It supports adding, editing, and removing tasks to be done throughout the workday, and it will always save changes 
                                 made to the hour blocks. It is deployed <a href="https://cddeal12.github.io/Homework-05-Day-Planner/">Here</a>.
                                 <br />
-                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Homework-05-Day-Planner">Here</a>.
+                                <br />
+                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Homework-05-Day-Planner">Here</a>
+                                <br />
                                 </p>
                             </section>
                             <section className="my-3 border-dark bg-light">
@@ -66,7 +74,9 @@ const Portfolio = () => (
                                 Eat-A-Burger is a site I built to practice MVC conventions. It stores a table of burgers and allows a user to add to it, or to set certain burgers as 
                                 'devoured'. This app is deployed <a href="https://homework-13-burger-logger.herokuapp.com/">Here</a>.
                                 <br />
-                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Homework-13-Burger-Logger">Here</a>.
+                                <br />
+                                You can find the Github repository for this project <a href="https://github.com/cddeal12/Homework-13-Burger-Logger">Here</a>
+                                <br />
                                 </p>
                             </section>
                         </content>
