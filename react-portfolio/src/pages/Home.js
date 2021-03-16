@@ -22,7 +22,7 @@ const Home = () => (
                         <article className="maintext px-2">
                             My name is Caleb Deal. I am a full-stack web developer currently living in Tacoma, Washington. I was born in Statesboro Georgia where I grew up and attended high school.
                             There I became very interested in medical biology and and attended Georgia Tech for two years while working towards a biomedical engineering degree. Now, however, I am 
-                            developing new skills as a web developer and working towards a new career in this field. I attended Georgia Tech once again as a bootcamp student and am now cerified as a 
+                            developing new skills as a web developer and working towards a new career in this field. I attended Georgia Tech once again as a bootcamp student and am now certified as a 
                             full-stack developer.
                         </article>
                         <br />
