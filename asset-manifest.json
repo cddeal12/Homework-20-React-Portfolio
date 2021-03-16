@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.db46dca5.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.345cf8a8.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.345cf8a8.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0298b166.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0298b166.js.map",
+    "static/css/2.267ffeee.chunk.css": "/React-Portfolio/static/css/2.267ffeee.chunk.css",
+    "static/js/2.e3b2c6d1.chunk.js": "/React-Portfolio/static/js/2.e3b2c6d1.chunk.js",
+    "static/js/2.e3b2c6d1.chunk.js.map": "/React-Portfolio/static/js/2.e3b2c6d1.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/React-Portfolio/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.db46dca5.chunk.css.map": "/React-Portfolio/static/css/main.db46dca5.chunk.css.map",
+    "static/js/2.e3b2c6d1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.e3b2c6d1.chunk.js.LICENSE.txt",
+    "static/media/AndNowTheWeatherThumb.798c135d.PNG": "/React-Portfolio/static/media/AndNowTheWeatherThumb.798c135d.PNG",
+    "static/media/DateMateThumb.bde6e553.PNG": "/React-Portfolio/static/media/DateMateThumb.bde6e553.PNG",
+    "static/media/DayPlannerThumb.f6d7d1c1.PNG": "/React-Portfolio/static/media/DayPlannerThumb.f6d7d1c1.PNG",
+    "static/media/Eat-a-Burger.50622277.PNG": "/React-Portfolio/static/media/Eat-a-Burger.50622277.PNG",
+    "static/media/RubbishWrld.2170fd33.png": "/React-Portfolio/static/media/RubbishWrld.2170fd33.png",
+    "static/media/itme.c011499b.jpg": "/React-Portfolio/static/media/itme.c011499b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0298b166.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.e3b2c6d1.chunk.js",
+    "static/css/main.db46dca5.chunk.css",
+    "static/js/main.345cf8a8.chunk.js"
+  ]
+}

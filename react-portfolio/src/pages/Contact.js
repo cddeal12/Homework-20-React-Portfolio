@@ -17,8 +17,8 @@ const Contact = () => (
                     <h5><a target="_blank" href="https://docs.google.com/document/d/1cc1eJVaZW7QNr08OYRF7ZMASsdJKdyFYJY2jHxBoN14/edit?usp=sharing">Resume</a></h5>
                     <br></br>
                     <h4>Contact Info</h4>
-                    <h5>Email: cddeal12@mgial.com</h5>
-                    <h5>Phone: 912 690 3447</h5>
+                    <h5>Email: cddeal12@gmail.com</h5>
+                    <h5>Phone: 912.690.3447</h5>
                 </article>
             </main>
         </div>
